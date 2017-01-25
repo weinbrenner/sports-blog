@@ -1,27 +1,5 @@
-# 🏆 – A Blog Theme for Jekyll
-Trophy is a blog theme for Jekyll built using HTML, Sass, and JavaScript (no jQuery). External stylesheets and libraries included are Google Fonts, Font Awesome, Normalize.CSS, and WOW.js.
-
-## Screenshots
-Blog Page (Posts)
-![Blog Page](https://github.com/thomasvaeth/trophy/blob/master/_screenshots/screenshot-1.png "Desktop screenshot")
-
-Blog Page (Categories)
-![Blog Page](https://github.com/thomasvaeth/trophy/blob/master/_screenshots/screenshot-2.png "Desktop screenshot")
-
-Post Page (Mast)
-![Post Page](https://github.com/thomasvaeth/trophy/blob/master/_screenshots/screenshot-3.png "Desktop screenshot")
-
-Post Page (Profile & Footer)
-![Post Page](https://github.com/thomasvaeth/trophy/blob/master/_screenshots/screenshot-4.png "Desktop screenshot")
-
-Archive Page
-![Archive Page](https://github.com/thomasvaeth/trophy/blob/master/_screenshots/screenshot-5.png "Desktop screenshot")
-
-## Installation
-All dependencies are saved in the ````Gemfile````. Run ````bundle install```` (Install [Bundler](http://bundler.io/) if it is not already) after cloning the repo.
-
-## Edit Theme
-I made everything as easy as possible to edit. Most things can be found in the ````_config.yml````, but if more editing is required digging through the code will be required. The ````head.html```` file is in the ````_includes```` folder and the Sass variables are found in the ````_base.scss```` file in the ````_sass```` folder.
+# Sourcecode for my blog sports.weinbrenner.name
+A [Jekyll](https://jekyllrb.com/) based blog built upon the [Trophy](http://thomasvaeth.com/trophy/) theme.
 
 ### _config.yml
 
@@ -102,18 +80,11 @@ This is the YAML front matter block for blog posts.
     ---
     {% include category.html %}
 
-Jekyll does not have anything built in for categories, so I made making new categories as simple as possible.
 * ````layout```` - This field will always be default
 * ````title```` - Name of the category
 * ````description```` - Optional field for SEO (recommended to not go over 160 characters)
 * ````permalink```` - URL for the category
 
-## Upcoming Additions
-* Page transitions
-* More styled elements for blog posts
-
-## Issues
-Please submit any issues [here](https://github.com/thomasvaeth/trophy/issues).
-
-## License
-Trophy is licensed under the MIT License.
+## Licenses
+This source code is licensed under the MIT License.
+The blog content is licensed under the [Creative Commons License]()https://creativecommons.org/licenses/by/4.0/)

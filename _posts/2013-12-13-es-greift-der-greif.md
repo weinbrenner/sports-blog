@@ -4,8 +4,8 @@ title: "Es greift der Greif"
 date: '2013-12-13 09:33:32 +0100'
 categories:
 - Sport
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: /assets/img/cropped-kuehtairun.jpg
+image-sm: /assets/img/cropped-kuehtairun-300x90.jpg
 ---
 F&uuml;r alle L&auml;ufer unter euch: Wer mal einen richtig schnellen Marathon laufen will, wer sich im Training mal
 richtig schinden will, dem empfehle ich, es mal mit dem ber&uuml;hmt-ber&uuml;chtigten Greif-Plan zu machen!

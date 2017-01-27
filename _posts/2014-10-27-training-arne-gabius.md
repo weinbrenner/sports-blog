@@ -4,8 +4,8 @@ title: "Training Arne Gabius"
 date: '2014-10-27 21:37:48 +0100'
 categories:
 - Sport
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: /assets/img/runfast.jpg
+image-sm: /assets/img/runfast-300x207.jpg
 ---
 Gestern fr&uuml;h sah ich mir so nebenbei (eigentlich hackte ich an einem meiner Software-Projekte) 
 den Livestream des Frankfurt Marathons an. Es schien das &uuml;bliche Spiel: ein gro&szlig;er Pulk 

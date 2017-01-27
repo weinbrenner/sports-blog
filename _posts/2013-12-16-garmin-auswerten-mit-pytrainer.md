@@ -4,8 +4,8 @@ title: Garmin auswerten mit pytrainer
 date: '2013-12-16 09:33:32 +0100'
 categories:
 - Sport
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: /assets/img/cropped-bmw4er2012.jpg
+image-sm: /assets/img/cropped-bmw4er2012-300x90.jpg
 ---
 Wer ein Garmin-Device sein eigen nennt (insbesondere die Laufuhren 305, 410 usw.) bekommt die
 Software "TrainingCenter" mitgeliefert. Diese l&auml;uft allerdings nur unter Windows, Linux-User

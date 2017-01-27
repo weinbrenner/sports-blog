@@ -4,8 +4,8 @@ title: 'Arnold Schwarzenegger: 6 Rules of Success'
 date: '2014-10-07 23:12:38 +0200'
 categories:
 - Lebensphilosophie
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: /assets/img/cropped-lefty.jpg
+image-sm: /assets/img/cropped-lefty-300x90.jpg
 ---
 Man kann ja vom "Arnie" halten was man will, aber gefallen hat mir eine Rede von ihm, in der er sechs
 Regeln zum Erfolg im Leben erl&auml;utert. Die Regeln will ich gleich rezitieren und kommentieren. 

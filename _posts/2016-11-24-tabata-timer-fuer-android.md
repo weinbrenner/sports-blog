@@ -14,8 +14,8 @@ comments:
   content: "Ich benutze zur Zeit diesen hier: https://f-droid.org/repository/browse/?fdfilter=timer&amp;fdid=org.hiittimer.hiittimer\r\nDer
     ist vielleicht nicht so h&uuml;bsch, daf&uuml;r sehr klein und auch einfach zu
     bedienen."
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: /assets/img/tabatatimerforhiit.png
+image-sm: /assets/img/tabatatimerforhiit-300x242.png
 ---
 Regelm&auml;&szlig;ig streue ich verschiedene Formen von Kraft- und Fitnesstraining in
 mein Gesamttraining ein. Bevorzugt sind verschiedene Formen von HIIT, Crossfit, Sachen
@@ -29,7 +29,7 @@ Es ist der
 [Tabata Timer for HIIT (Google Play Store)](https://play.google.com/store/apps/details?id=com.simplevision.workout.tabata&amp;hl=de){:target="_blank"}
 f&uuml;r Android Ger&auml;te:
 
-<img class="alignnone wp-image-208 size-full" src="http://sports.weinbrenner.name/wp-content/uploads/tabatatimerforhiit.png" alt="tabatatimerforhiit" width="709" height="573" />
+![](/assets/img/tabatatimerforhiit.png)
 
 Das Teil ist ziemlich flexibel und erlaubt es schnell einfache Kombinationen aus Runden und 
 S&auml;tzen zu erstellen. Schwierigere Kombinationen (verschieden Lange Abschnitte je Satz usw.) 

@@ -4,8 +4,8 @@ title: "Was soll das?"
 date: '2013-11-26 21:25:39 +0100'
 categories:
 - Der ganze Rest
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: /assets/img/cropped-rainride.jpg
+image-sm: /assets/img/cropped-rainride-300x90.jpg
 ---
 Noch ein Blog zum Thema Sport? Was soll das?
 

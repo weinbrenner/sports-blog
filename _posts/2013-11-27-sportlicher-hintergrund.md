@@ -5,8 +5,8 @@ date: '2013-11-27 08:23:51 +0100'
 categories:
 - Der ganze Rest
 - Sport
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: /assets/img/ironmancanada1998.jpg
+image-sm: /assets/img/ironmancanada1998.jpg
 ---
 F&uuml;r alle, die mich nicht so genau kennen, hier ein paar Worte zu meinem sportlichen Hintergrund.
 

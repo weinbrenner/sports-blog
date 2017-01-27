@@ -4,8 +4,8 @@ title: "Training mit Mathematik"
 date: '2015-03-01 22:55:26 +0100'
 categories:
 - Sport
-image: https://unsplash.it/2000/1200?image=1003
-image-sm: https://unsplash.it/500/300?image=1003
+image: /assets/img/alpenradeln.jpg
+image-sm: /assets/img/alpenradeln-300x170.jpg
 ---
 Fibonacci Zahlen als Grundlage f&uuml;r Distanzen &#47; Zeiten in Trainingspl&auml;nen.
 

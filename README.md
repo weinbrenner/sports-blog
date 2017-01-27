@@ -87,4 +87,4 @@ This is the YAML front matter block for blog posts.
 
 ## Licenses
 This source code is licensed under the MIT License.
-The blog content is licensed under the [Creative Commons License]()https://creativecommons.org/licenses/by/4.0/)
+The blog content is licensed under the [Creative Commons License](https://creativecommons.org/licenses/by/4.0/).

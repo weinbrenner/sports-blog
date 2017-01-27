@@ -3,7 +3,7 @@ layout: post
 title: "We are what we eat!"
 date: '2016-10-27 17:57:13 +0200'
 categories:
-- Ern&auml;hrung
+- Ernährung
 - Lebensphilosophie
 image: /assets/img/cropped-tonizza.jpg
 image-sm: /assets/img/cropped-tonizza-300x90.jpg

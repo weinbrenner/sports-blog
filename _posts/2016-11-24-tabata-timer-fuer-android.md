@@ -14,7 +14,7 @@ comments:
   content: "Ich benutze zur Zeit diesen hier: https://f-droid.org/repository/browse/?fdfilter=timer&amp;fdid=org.hiittimer.hiittimer\r\nDer
     ist vielleicht nicht so h&uuml;bsch, daf&uuml;r sehr klein und auch einfach zu
     bedienen."
-image: /assets/img/tabatatimerforhiit.png
+image: /assets/img/zirkeltraining.jpg
 image-sm: /assets/img/tabatatimerforhiit-300x242.png
 ---
 Regelm&auml;&szlig;ig streue ich verschiedene Formen von Kraft- und Fitnesstraining in

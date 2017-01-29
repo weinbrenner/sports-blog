@@ -9,19 +9,19 @@ google_analytics:
 title: "Burner Sports"
 description: Nützliches, Nutzloses, Interessantes und Belangloses aus meinen Sportaktivitäten, Ernährung, meiner Lebensphilosopie und dem ganzen Rest
 url: "http://sports.weinbrenner.name"
-twitter_username: 
-default_img: 
+twitter_username: weinbrenner
+default_img: https://pbs.twimg.com/profile_images/721873175/jwavatar.png
 
 # Profile settings
-name: 
+name:
 profile_img: 
-profile: 
+profile:
 social:
-  github: 
+  github:
 
 # Build settings
 include: ["_categories"]
-exclude: ["_screenshots", "Gemfile", "Gemfile.lock"]
+exclude: ["Gemfile", "Gemfile.lock"]
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 
